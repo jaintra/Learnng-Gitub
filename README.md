@@ -1,2 +1,2 @@
-# Learnng-Gitub
+# Learning-Gitub
 I am new here.
